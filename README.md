@@ -11,7 +11,7 @@ Comecei a atuar na área profissionalmente no final de 2021, quando estagiei com
 
 Tenho uma grande paixão pelo mundo geek, de novels a mangás e animes, como também amo ouvir música e principalmente comer!
 
-Pra 2023 pretendo colocar aqui alguns projetos dos meus estudos (atualmente Node e ReactNative) então sinta-se convidados a me acompanhar nessa jornada.
+Pra 2023 pretendo colocar aqui alguns projetos dos meus estudos (atualmente Node e ReactNative) então sintam-se convidados a me acompanhar nessa jornada.
 
 ![Victor Github Stats](https://github-readme-stats.vercel.app/api?username=itsmevicot&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmevicot&layout=compact)
