@@ -13,5 +13,5 @@ Tenho uma grande paixão pelo mundo geek, de novels a mangás e animes, como tam
 
 Pra 2023 pretendo colocar aqui alguns projetos dos meus estudos (atualmente Node e ReactNative) então sinta-se convidado a me acompanhar nessa jornada.
 
-[![Victor Github Stats](https://github-readme-stats.vercel.app/api?username=itsmevicot&theme=dracula)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmevicot&layout=compact)]
+![Victor Github Stats](https://github-readme-stats.vercel.app/api?username=itsmevicot&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmevicot&layout=compact)
