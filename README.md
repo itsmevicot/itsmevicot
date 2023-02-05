@@ -7,7 +7,7 @@
 
 Me chamo Victor, tenho 24 anos e sou desenvolvedor backend defensor do nosso amado (e odiado por alguns) Python.
 
-Comecei a atuar na área profissionalmente no final de 2021, quando estagiei como desenvolvedor backend utilizando .NET 6.0, SQL Server, Entity (EF) e Dapper. Atualmente sou bolsista no LAIS (Laboratório de Inovação Tecnológica em Saúde), atuando como pesquisador e desenvolvedor backend com Python, Django e Javascript. Também tenho trabalhado com outras tecnologias como PostgreSQL, Docker, Redis e Celery.
+Comecei a atuar na área profissionalmente no final de 2021, quando estagiei como desenvolvedor backend utilizando .NET 6.0, SQL Server, Entity (EF) e Dapper. Atualmente sou bolsista no LAIS (Laboratório de Inovação Tecnológica em Saúde), atuando como pesquisador e desenvolvedor backend com Python, Django e JavaScript. Também tenho trabalhado com outras tecnologias como PostgreSQL, Docker, Redis e Celery.
 
 Tenho uma grande paixão pelo mundo geek, de novels a mangás e animes, como também amo ouvir música e principalmente comer!
 
